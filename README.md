@@ -30,9 +30,9 @@ Los diseños están en formato estático JPG. El uso de JPG significará que deb
 
 Si desea que los archivos de diseño (proporcionamos versiones de Sketch y Figma) para inspeccionar el diseño con más detalle, puede suscribirse como miembro PRO .
 
-Encontrará todos los activos necesarios en la /imagescarpeta. Los activos ya están optimizados.
+Encontrará todos los activos necesarios en la carpeta de /images. Los activos ya están optimizados.
 
-También hay un style-guide.mdarchivo que contiene la información que necesitará, como la paleta de colores y las fuentes.
+También hay un archivo de style-guide.md que contiene la información que necesitará, como la paleta de colores y las fuentes.
 
 Construyendo tu proyecto
 No dude en utilizar cualquier flujo de trabajo con el que se sienta cómodo. A continuación se muestra un proceso sugerido, pero no cree que deba seguir estos pasos:
@@ -54,7 +54,7 @@ Puede alojar su sitio utilizando una de estas soluciones o cualquiera de nuestro
 Crea una personalizada README.md
 Recomendamos encarecidamente sobrescribir esto README.mdcon uno personalizado. Hemos proporcionado una plantilla dentro del README-template.mdarchivo en este código de inicio.
 
-La plantilla proporciona una guía sobre qué agregar. Una costumbre READMEle ayudará a explicar su proyecto y reflexionar sobre sus aprendizajes. No dude en editar nuestra plantilla tanto como desee.
+La plantilla proporciona una guía sobre qué agregar. Una costumbre README le ayudará a explicar su proyecto y reflexionar sobre sus aprendizajes. No dude en editar nuestra plantilla tanto como desee.
 
 Una vez que haya agregado su información a la plantilla, elimine este archivo y cambie el nombre del README-template.mdarchivo a README.md. Eso hará que se muestre como el archivo README de su repositorio.
 
