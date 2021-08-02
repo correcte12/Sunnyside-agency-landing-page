@@ -10,7 +10,7 @@ body {
   }
   
   .hero {
-    height: 600px;
+    height: 300px;
     position: relative;
     background-color: #3ebfff;
     background-image: url(../../images/mobile/image-header.jpg);
